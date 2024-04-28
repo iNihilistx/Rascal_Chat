@@ -58,4 +58,4 @@
 </div>
 
 ## License
-This project is licensed under the [MIT License](https://github.com/iNihilistx/Rascal_Chat/blob/main/LICENSE) - see the [LICENSE](https://github.com/iNihilistx/Rascal_Chat/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/iNihilistx/Rascal_Chat/blob/main/LICENSE).

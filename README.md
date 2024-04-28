@@ -1,7 +1,11 @@
 ## Overview
+[![GitHub Stars](https://img.shields.io/github/stars/iNihilistx/Rascal_Chat.svg)](https://github.com/iNihilistx/Rascal_Chat/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/iNihilistx/Rascal_Chat.svg)](https://github.com/iNihilistx/Rascal_Chat/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/iNihilistx/Rascal_Chat.svg)](https://github.com/iNihilistx/Rascal_Chat/pulls)
+[![License](https://img.shields.io/github/license/iNihilistx/Rascal_Chat.svg)](https://github.com/iNihilistx/Rascal_Chat/blob/main/LICENSE)
 <div>
   <p1>
-    Experience seamless communication with Rascal Chat a Python-based Chat application, featuring robust encryption to safeguard your IP address and Port details. Customise your identity       with a personalized username, while enjoying a sleek and modern interface crafted using tkinter and the socket library. Simple yet powerful, Rascal Chat is user friendly application
+    Experience seamless communication with Rascal Chat a Python-based Chat application, featuring robust encryption to safeguard your IP address and Port details. Customise your identity       with a personalized username, while enjoying a sleek and modern        interface crafted using tkinter and the socket library. Simple yet powerful, Rascal Chat is user friendly application
     allowing for easy communication over a network.
   </p1>
 </div>

@@ -56,3 +56,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Vscode" width="40" height="40"/> 
 </div>
+
+## License
+This project is licensed under the [MIT License](https://github.com/iNihilistx/Rascal_Chat/blob/main/LICENSE) - see the [LICENSE](https://github.com/iNihilistx/Rascal_Chat/blob/main/LICENSE) file for details.
